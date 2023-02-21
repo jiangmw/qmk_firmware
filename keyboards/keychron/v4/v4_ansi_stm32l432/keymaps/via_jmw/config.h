@@ -14,4 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#define DYNAMIC_KEYMAP_LAYER_COUNT 5
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
+// #define LEADER_PER_KEY_TIMING
+// #define LEADER_TIMEOUT 250
+// #define LEADER_NO_TIMEOUT
